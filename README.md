@@ -8,7 +8,9 @@ A comprehensive Python-based analytics project focused on analyzing customer spe
 
 ### 🎥 Analytics Report Carousel / PDF Demo
 
-<img src="Images/Credit Card Analytics.gif" alt="Credit Card Analytics GIF" width="100%">
+<a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_credit-card-analysis-python-project-02-ugcPost-7457045248188489728-gGS2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
+  <img src="Images/Credit%20Card%20Case%20Study.jpg" alt="Credit Card Analytics" width="100%">
+</a>
 
 ---
 
@@ -176,7 +178,6 @@ These categories dominate transaction volume and revenue generation.
 credit-card-customer-behavior-analysis/
 ├── Images/
 │ ├── Credit Card Analytics Preview.png
-│ └── Credit Card Analytics.gif
 ├── notebooks/
 │ └── credit_card_analysis.ipynb
 └── README.md
