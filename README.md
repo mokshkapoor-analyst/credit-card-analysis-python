@@ -6,7 +6,9 @@ A comprehensive Python-based analytics project focused on analyzing customer spe
 
 ## 📊 Project Preview
 
-### 🎥 Analytics Report Carousel / PDF Demo
+### 🎥 Workings of Credit Card Customer Behavior & Profit Analysis Project  
+
+📌 Click on the image to see the working of this project as a presentation  
 
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_credit-card-analysis-python-project-02-ugcPost-7457045248188489728-gGS2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28">
   <img src="Images/Credit%20Card%20Case%20Study.jpg" alt="Credit Card Analytics" width="100%">
