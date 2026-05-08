@@ -11,6 +11,12 @@ A comprehensive Python-based analytics project focused on analyzing customer spe
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_credit-card-analysis-python-project-02-ugcPost-7457045248188489728-gGS2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28">
   <img src="Images/Credit%20Card%20Case%20Study.jpg" alt="Credit Card Analytics" width="100%">
 </a>
+
+---
+
+👉 Click below to view the full Jupyter Notebook:
+📘 Python Notebook: [Click here](notebooks/credit_card_analysis.ipynb)
+
 ---
 
 ## 📁 Dataset Overview
