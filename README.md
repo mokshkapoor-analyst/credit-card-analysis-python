@@ -186,7 +186,10 @@ credit-card-customer-behavior-analysis/
 ├── Images/
 │ ├── Credit Card Analytics Preview.png
 ├── notebooks/
-│ └── credit_card_analysis.ipynb
+│ └── Credit Card Case Study - Case Study ~ Moksh Kapoor.html
+| └── Customer Acqusition.csv
+| └── Repayment.csv
+| └── Repayment.csv
 └── README.md
 ```
 
