@@ -17,7 +17,17 @@ A comprehensive Python-based analytics project focused on analyzing customer spe
 ---
 
 👉 Click below to view the full Jupyter Notebook:
-📘 Python Notebook: [Open Notebook Folder](notebooks/)
+## 📘 Python Notebook
+
+⚠️ GitHub does not preview exported `.html` notebook files directly.
+
+To view the complete interactive notebook:
+
+1. Open the `notebooks` folder  
+2. Download the HTML notebook file  (it contains solutions & workings of this project)
+3. Open it in your browser
+
+📂 Notebook Folder: [Open Here](notebooks/)
 
 ---
 
