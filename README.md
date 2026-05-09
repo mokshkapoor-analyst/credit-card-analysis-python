@@ -17,7 +17,7 @@ A comprehensive Python-based analytics project focused on analyzing customer spe
 ---
 
 👉 Click below to view the full Jupyter Notebook:
-📘 Python Notebook: [Click here](notebooks/Credit%20Card%20Case%20Study%20-%20Case%20Study%20~%20Moksh%20Kapoor.html)
+📘 Python Notebook: [Open Notebook Folder](notebooks/)
 
 ---
 
